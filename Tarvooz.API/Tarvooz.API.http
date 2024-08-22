@@ -1,0 +1,6 @@
+@Tarvooz.API_HostAddress = http://localhost:5084
+
+GET {{Tarvooz.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
