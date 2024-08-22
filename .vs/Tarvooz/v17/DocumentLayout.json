@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|solutionrelative:tarvooz.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\usecases\\usercases\\handlers\\queryhandlers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\usecases\\usercases\\handlers\\queryhandlers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\usecases\\usercases\\handlers\\commandhandler\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\usecases\\usercases\\handlers\\commandhandler\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\usecases\\usercases\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\usecases\\usercases\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB43DBA-53A0-4411-9D45-7F86C38C71EF}|Tarvooz.Infrastructure\\Tarvooz.Infrastructure.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB43DBA-53A0-4411-9D45-7F86C38C71EF}|Tarvooz.Infrastructure\\Tarvooz.Infrastructure.csproj|solutionrelative:tarvooz.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB43DBA-53A0-4411-9D45-7F86C38C71EF}|Tarvooz.Infrastructure\\Tarvooz.Infrastructure.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB43DBA-53A0-4411-9D45-7F86C38C71EF}|Tarvooz.Infrastructure\\Tarvooz.Infrastructure.csproj|solutionrelative:tarvooz.infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|solutionrelative:tarvooz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|solutionrelative:tarvooz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\usecases\\usercases\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\usecases\\usercases\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.domain\\entities\\dtos\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\entities\\dtos\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.api\\tarvooz.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|solutionrelative:tarvooz.api\\tarvooz.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C50A8-C303-45E8-8370-9077A9E5B853}|Tarvooz.Application\\Tarvooz.Application.csproj|solutionrelative:tarvooz.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.domain\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.domain\\tarvooz.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{90717D55-8192-4ECF-B9A6-BB146A3B863A}|Tarvooz.Domain\\Tarvooz.Domain.csproj|solutionrelative:tarvooz.domain\\tarvooz.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|c:\\users\\hp\\desktop\\important\\tarvooz\\tarvooz.backend\\tarvooz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2598640B-C196-488E-8A6D-E12C6FEE2F81}|Tarvooz.API\\Tarvooz.API.csproj|solutionrelative:tarvooz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +82,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Category.cs",
-              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:21:21.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Product.cs",
-              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:21:09.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\User.cs",
-              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:21:00.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tarvooz.Domain",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Tarvooz.Domain.csproj",
-              "RelativeDocumentMoniker": "Tarvooz.Domain\\Tarvooz.Domain.csproj",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Tarvooz.Domain.csproj",
-              "RelativeToolTip": "Tarvooz.Domain\\Tarvooz.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-22T05:20:24.559Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -106,15 +106,236 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Handlers\\QueryHandlers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\UseCases\\UserCases\\Handlers\\QueryHandlers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Handlers\\QueryHandlers\\GetAllUsersQueryHandler.cs*",
+              "RelativeToolTip": "Tarvooz.Application\\UseCases\\UserCases\\Handlers\\QueryHandlers\\GetAllUsersQueryHandler.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wBcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:56:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Queries\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\UseCases\\UserCases\\Queries\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Queries\\GetAllUsersQuery.cs*",
+              "RelativeToolTip": "Tarvooz.Application\\UseCases\\UserCases\\Queries\\GetAllUsersQuery.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:55:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "20240822065411_first.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs",
+              "RelativeToolTip": "Tarvooz.Infrastructure\\Migrations\\20240822065411_first.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:54:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Handlers\\CommandHandler\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\UseCases\\UserCases\\Handlers\\CommandHandler\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Handlers\\CommandHandler\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Tarvooz.Application\\UseCases\\UserCases\\Handlers\\CommandHandler\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:35:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tarvooz.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Tarvooz.API\\Controllers\\UserController.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAzwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:29:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tarvooz.Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:05:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Program.cs",
               "RelativeDocumentMoniker": "Tarvooz.API\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Program.cs",
               "RelativeToolTip": "Tarvooz.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:20:19.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Tarvooz.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\appsettings.json",
+              "RelativeToolTip": "Tarvooz.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T06:24:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Tarvooz.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:20:40.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\UseCases\\UserCases\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\UseCases\\UserCases\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Tarvooz.Application\\UseCases\\UserCases\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:34:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\DTOs\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\DTOs\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\DTOs\\ResponseModel.cs",
+              "RelativeToolTip": "Tarvooz.Domain\\Entities\\DTOs\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:36:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tarvooz.API.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Tarvooz.API.http",
+              "RelativeDocumentMoniker": "Tarvooz.API\\Tarvooz.API.http",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\Tarvooz.API.http",
+              "RelativeToolTip": "Tarvooz.API\\Tarvooz.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T06:33:38.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Tarvooz.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:18:17.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:21:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Tarvooz.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:05:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Category.cs",
+              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:21:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Tarvooz.Domain\\Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "Tarvooz.Domain\\Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:21:09.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tarvooz.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Tarvooz.Domain.csproj",
+              "RelativeDocumentMoniker": "Tarvooz.Domain\\Tarvooz.Domain.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Domain\\Tarvooz.Domain.csproj",
+              "RelativeToolTip": "Tarvooz.Domain\\Tarvooz.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T05:20:24.559Z",
               "EditorCaption": ""
             }
           ]

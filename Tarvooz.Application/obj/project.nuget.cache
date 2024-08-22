@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "faN3XY8mN54Fe5dtoC+bOJRKlAeBH5B9n3hfamNSCI8kY0qsb7PD8sZetHuDcFxP9MJ6PXXUxfFk1n+wnaUiAw==",
+  "dgSpecHash": "HmUyK19QQy7QF6OV3p4BUFbh3P9QFKmimaNUh+WUTZbrimTCXPdzZsVnLUCm5C3aTchFmRKx6sqEmywHsr0uUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.Application\\Tarvooz.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

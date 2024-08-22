@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarvooz.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77657834bf8efbb79895f5d46700e5fdc33874b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7019f9aa13f2ffdb5df7f488602b4809afd112be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarvooz.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarvooz.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
