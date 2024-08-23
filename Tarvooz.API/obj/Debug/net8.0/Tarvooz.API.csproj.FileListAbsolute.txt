@@ -115,3 +115,8 @@ C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Tarvooz.Infrastructure.pdb
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Tarvooz.Application.pdb
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Tarvooz.Domain.pdb
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

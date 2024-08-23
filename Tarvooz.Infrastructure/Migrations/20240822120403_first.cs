@@ -39,6 +39,19 @@ namespace Tarvooz.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Verifications",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "uuid", nullable: false),
+                    Email = table.Column<string>(type: "text", nullable: false),
+                    SentPassword = table.Column<string>(type: "text", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Verifications", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Products",
                 columns: table => new
                 {
@@ -82,6 +95,9 @@ namespace Tarvooz.Infrastructure.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Products");
+
+            migrationBuilder.DropTable(
+                name: "Verifications");
 
             migrationBuilder.DropTable(
                 name: "Categories");

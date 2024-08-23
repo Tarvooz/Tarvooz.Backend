@@ -25,6 +25,24 @@ namespace Tarvooz.API.Controllers
         }
 
         [HttpPost]
+        public async Task<ResponseModel> SendVerification(SendVerificationToUserCommand request)
+        {
+            return await _mediator.Send(request);
+        }
+
+        [HttpPost]
+        public async Task<ResponseModel> Register(RegisterUserCommand request)
+        {
+            return await _mediator.Send(request);
+        }
+        
+        [HttpPost]
+        public async Task<ResponseModel> LogIn(LogUserInCommand request)
+        {
+            return await _mediator.Send(request);
+        }
+
+        [HttpPost]
         public async Task<ResponseModel> Create(CreateUserCommand request)
         {
             return await _mediator.Send(request);

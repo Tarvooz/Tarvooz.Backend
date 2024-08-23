@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarvooz.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7019f9aa13f2ffdb5df7f488602b4809afd112be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329f0cf94e8205cebaef5809b7ceead3762fe449")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarvooz.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarvooz.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
