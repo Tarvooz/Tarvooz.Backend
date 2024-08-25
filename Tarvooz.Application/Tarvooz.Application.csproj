@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCases\CategoryCases\Commands\" />
-    <Folder Include="UseCases\CategoryCases\Handlers\CommandHandler\" />
-    <Folder Include="UseCases\CategoryCases\Handlers\QueryHandlers\" />
-    <Folder Include="UseCases\CategoryCases\Queries\" />
     <Folder Include="UseCases\ProductCases\Commands\" />
     <Folder Include="UseCases\ProductCases\Handlers\CommandHandler\" />
     <Folder Include="UseCases\ProductCases\Handlers\QueryHandlers\" />
