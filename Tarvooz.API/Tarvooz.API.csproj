@@ -18,4 +18,8 @@
     <ProjectReference Include="..\Tarvooz.Infrastructure\Tarvooz.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\productImages\" />
+  </ItemGroup>
+
 </Project>

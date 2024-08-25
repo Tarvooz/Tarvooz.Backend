@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "hnTJHF+LvYMwT61gy6FfpVAaI7GBbVfcWDbyv9lYlVs=",
+  "Hash": "LVeDf13kkvy+pHmLwKRFXWeXRACyjp20MDwCx48914M=",
   "Source": "Tarvooz.API",
   "BasePath": "_content/Tarvooz.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tarvooz.API\\wwwroot",
+      "Source": "Tarvooz.API",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
+      "BasePath": "_content/Tarvooz.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676",
+      "SourceId": "Tarvooz.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
+      "BasePath": "_content/Tarvooz.API",
+      "RelativePath": "productImages/logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676"
+    }
+  ]
 }

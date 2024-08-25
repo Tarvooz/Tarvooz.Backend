@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676",
+      "PackagePath": "staticwebassets\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tarvooz.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tarvooz.API.props",
+      "PackagePath": "build\\Tarvooz.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tarvooz.API.props",
+      "PackagePath": "buildMultiTargeting\\Tarvooz.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tarvooz.API.props",
+      "PackagePath": "buildTransitive\\Tarvooz.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

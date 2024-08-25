@@ -1,7 +1,5 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections;
 using Tarvooz.Application.UseCases.CategoryCases.Commands;
 using Tarvooz.Application.UseCases.CategoryCases.Queries;
 using Tarvooz.Domain.Entities.DTOs;

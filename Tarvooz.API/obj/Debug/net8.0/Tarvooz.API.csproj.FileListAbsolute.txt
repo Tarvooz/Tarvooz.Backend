@@ -120,3 +120,4 @@ C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.API\bin\Debug\net8.0\Tarvooz.API.staticwebassets.runtime.json
