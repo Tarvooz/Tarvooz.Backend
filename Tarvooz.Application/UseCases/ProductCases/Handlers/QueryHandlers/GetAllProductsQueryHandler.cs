@@ -20,7 +20,7 @@ namespace Tarvooz.Application.UseCases.ProductCases.Handlers.QueryHandlers
         {
             try
             {
-                return await _applicationDbContext.Products.Skip((request.Page - 1) * request.Count).Take(request.Count).ToListAsync(cancellationToken);
+                return await _applicationDbContext.Products.OrderByDescending(p=>p.CreatedDate).ToListAsync(cancellationToken);
             }   
             catch (Exception ex)
             {

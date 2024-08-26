@@ -48,8 +48,8 @@ namespace Tarvooz.Application.UseCases.ProductCases.Handlers.CommandHandler
                     };
                 }
 
-                string path = Path.Combine(_webHostEnvironment.WebRootPath, "productImages", $"{request.Image.FileName}-{Guid.NewGuid()}");
-                using (FileStream strem = new FileStream(path, FileMode.Create))
+                string path = Path.Combine("/productImages", $"{Guid.NewGuid()}-{request.Image.FileName}");
+                using (FileStream strem = new FileStream(_webHostEnvironment.WebRootPath+path, FileMode.Create))
                     request.Image.CopyTo(strem);
 
                 Product product = request.Adapt<Product>();
@@ -57,6 +57,7 @@ namespace Tarvooz.Application.UseCases.ProductCases.Handlers.CommandHandler
                 product.User=user;
                 product.Category=category;
                 product.ImagePath=path;
+                product.CreatedDate= DateTime.UtcNow;
 
                 await _applicationDbContext.Products.AddAsync(product);
                 await _applicationDbContext.SaveChangesAsync(cancellationToken);

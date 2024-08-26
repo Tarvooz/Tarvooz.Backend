@@ -36,6 +36,8 @@ namespace Tarvooz.API
 
             app.UseCors();
 
+            app.UseStaticFiles();
+
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

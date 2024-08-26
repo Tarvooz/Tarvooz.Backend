@@ -46,6 +46,7 @@ namespace Tarvooz.Application.UseCases.UserCases.Handlers.CommandHandler
                 user.PasswordHash = passwordModel.PasswordHash;
                 user.PasswordSalt = passwordModel.PasswordSalt;
 
+                _applicationDbContext.Verifications.Remove(verification);
                 await _applicationDbContext.Users.AddAsync(user);
                 await _applicationDbContext.SaveChangesAsync(cancellationToken);
 

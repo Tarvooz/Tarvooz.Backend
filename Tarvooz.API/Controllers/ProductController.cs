@@ -20,10 +20,9 @@ namespace Tarvooz.API.Controllers
         }
 
         [HttpGet]
-        [Route("{page}/{count}")]
-        public async Task<IEnumerable<Product>> GetALl(int page, int count)
+        public async Task<IEnumerable<Product>> GetALl()
         {
-            return await _mediator.Send(new GetAllProductsQuery { Page = page, Count = count });
+            return await _mediator.Send(new GetAllProductsQuery());
         }
         
         [HttpPost]
