@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarvooz.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca82f49fa4d88e3f9b493069dbb8a4374cf04411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e9f628f8e9bd9e128839c3889bb8b7da693351")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarvooz.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarvooz.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

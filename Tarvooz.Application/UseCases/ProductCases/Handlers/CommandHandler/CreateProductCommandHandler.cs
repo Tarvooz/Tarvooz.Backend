@@ -48,7 +48,7 @@ namespace Tarvooz.Application.UseCases.ProductCases.Handlers.CommandHandler
                     };
                 }
 
-                string path = Path.Combine("/productImages", $"{Guid.NewGuid()}-{request.Image.FileName}");
+                string path = Path.Combine("\\productImages", $"{Guid.NewGuid()}-{request.Image.FileName}");
                 using (FileStream strem = new FileStream(_webHostEnvironment.WebRootPath+path, FileMode.Create))
                     request.Image.CopyTo(strem);
 

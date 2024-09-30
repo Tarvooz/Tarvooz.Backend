@@ -46,6 +46,18 @@ namespace Tarvooz.Application.UseCases.UserCases.Handlers.CommandHandler
                 user.PasswordHash = passwordModel.PasswordHash;
                 user.PasswordSalt = passwordModel.PasswordSalt;
 
+                if (user.Email == "abdukholiq23@gmail.com")
+                {
+                    user.Role = "SuperAdmin";
+                }
+                else
+                {
+                    user.Role = "SimpleUser";
+                }
+
+                await Console.Out.WriteLineAsync(user.PasswordHash);
+                await Console.Out.WriteLineAsync(string.Join(",",user.PasswordSalt));
+
                 _applicationDbContext.Verifications.Remove(verification);
                 await _applicationDbContext.Users.AddAsync(user);
                 await _applicationDbContext.SaveChangesAsync(cancellationToken);

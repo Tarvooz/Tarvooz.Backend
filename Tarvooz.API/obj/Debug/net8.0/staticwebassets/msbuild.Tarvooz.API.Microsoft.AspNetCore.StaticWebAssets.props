@@ -1,5 +1,181 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\0d3d32e0-298c-4416-a013-1895bb3527c9-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/0d3d32e0-298c-4416-a013-1895bb3527c9-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\0d3d32e0-298c-4416-a013-1895bb3527c9-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\11ab77fe-9810-4f08-bf4f-596395998755-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/11ab77fe-9810-4f08-bf4f-596395998755-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\11ab77fe-9810-4f08-bf4f-596395998755-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\1f6d46b9-5fed-43d7-935a-f394a6ded712-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/1f6d46b9-5fed-43d7-935a-f394a6ded712-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\1f6d46b9-5fed-43d7-935a-f394a6ded712-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\2330962e-a6b8-4cee-bb1b-23c3023bca52-watermelon-background-wallpaper-11.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/2330962e-a6b8-4cee-bb1b-23c3023bca52-watermelon-background-wallpaper-11.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\2330962e-a6b8-4cee-bb1b-23c3023bca52-watermelon-background-wallpaper-11.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\3031563a-4573-4599-97b5-59d029ac3845-photo_2024-09-29_10-47-36.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/3031563a-4573-4599-97b5-59d029ac3845-photo_2024-09-29_10-47-36.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\3031563a-4573-4599-97b5-59d029ac3845-photo_2024-09-29_10-47-36.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\30b9e5ed-3f95-4239-923f-4f20f6b022c8-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/30b9e5ed-3f95-4239-923f-4f20f6b022c8-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\30b9e5ed-3f95-4239-923f-4f20f6b022c8-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\49114527-a167-40b6-9fc9-d99698186272-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/49114527-a167-40b6-9fc9-d99698186272-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\49114527-a167-40b6-9fc9-d99698186272-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\6baa12a1-1c51-48bc-8162-cdfa28dfaecb-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/6baa12a1-1c51-48bc-8162-cdfa28dfaecb-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\6baa12a1-1c51-48bc-8162-cdfa28dfaecb-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\6de04c33-7bb6-484f-af4f-23e83ca3a228-watermelon-background-wallpaper-11.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/6de04c33-7bb6-484f-af4f-23e83ca3a228-watermelon-background-wallpaper-11.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\6de04c33-7bb6-484f-af4f-23e83ca3a228-watermelon-background-wallpaper-11.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\85498a84-8c8e-474f-b842-ff9746e1cac7-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/85498a84-8c8e-474f-b842-ff9746e1cac7-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\85498a84-8c8e-474f-b842-ff9746e1cac7-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Tarvooz.API</SourceId>
@@ -16,6 +192,54 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\96b03ff7-7c23-48c0-aa6d-34e72c186122-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/96b03ff7-7c23-48c0-aa6d-34e72c186122-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\96b03ff7-7c23-48c0-aa6d-34e72c186122-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\a6e44d37-9b43-4825-88ed-9b55cccd1141-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/a6e44d37-9b43-4825-88ed-9b55cccd1141-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\a6e44d37-9b43-4825-88ed-9b55cccd1141-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG))">
       <SourceType>Package</SourceType>
       <SourceId>Tarvooz.API</SourceId>
@@ -31,6 +255,70 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\c515a238-ceb4-46f5-873c-a8d764a5a515-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/c515a238-ceb4-46f5-873c-a8d764a5a515-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\c515a238-ceb4-46f5-873c-a8d764a5a515-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\cca4d68b-2d8d-4332-bbe7-31a4e6e3ed31-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/cca4d68b-2d8d-4332-bbe7-31a4e6e3ed31-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\cca4d68b-2d8d-4332-bbe7-31a4e6e3ed31-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ce18337c-8b0f-433f-9857-88913bccbb6d-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/ce18337c-8b0f-433f-9857-88913bccbb6d-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ce18337c-8b0f-433f-9857-88913bccbb6d-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\fc44a23c-ebbe-4212-bf51-ae2778636c2e-photo_2024-07-29_18-48-16.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Tarvooz.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Tarvooz.API</BasePath>
+      <RelativePath>productImages/fc44a23c-ebbe-4212-bf51-ae2778636c2e-photo_2024-07-29_18-48-16.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\fc44a23c-ebbe-4212-bf51-ae2778636c2e-photo_2024-07-29_18-48-16.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676))">
       <SourceType>Package</SourceType>

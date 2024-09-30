@@ -22,6 +22,27 @@ namespace Tarvooz.Infrastructure.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("Tarvooz.Domain.Entities.Models.Basket", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Baskets");
+                });
+
             modelBuilder.Entity("Tarvooz.Domain.Entities.Models.Category", b =>
                 {
                     b.Property<Guid>("Id")
@@ -31,6 +52,9 @@ namespace Tarvooz.Infrastructure.Migrations
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("text");
+
+                    b.Property<int>("SearchCount")
+                        .HasColumnType("integer");
 
                     b.HasKey("Id");
 
@@ -76,6 +100,24 @@ namespace Tarvooz.Infrastructure.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("Tarvooz.Domain.Entities.Models.SearchPattern", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<int>("SearchCount")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("SearchWord")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("SearchPatterns");
+                });
+
             modelBuilder.Entity("Tarvooz.Domain.Entities.Models.User", b =>
                 {
                     b.Property<Guid>("Id")
@@ -102,6 +144,10 @@ namespace Tarvooz.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("bytea");
 
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.HasKey("Id");
 
                     b.ToTable("Users");
@@ -124,6 +170,25 @@ namespace Tarvooz.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Verifications");
+                });
+
+            modelBuilder.Entity("Tarvooz.Domain.Entities.Models.Basket", b =>
+                {
+                    b.HasOne("Tarvooz.Domain.Entities.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Tarvooz.Domain.Entities.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Tarvooz.Domain.Entities.Models.Product", b =>

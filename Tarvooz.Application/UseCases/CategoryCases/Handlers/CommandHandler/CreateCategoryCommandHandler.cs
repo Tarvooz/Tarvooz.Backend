@@ -30,7 +30,7 @@ namespace Tarvooz.Application.UseCases.CategoryCases.Handlers.CommandHandler
                     };
                 }
 
-                await _applicationDbContext.Categories.AddAsync(new Category { Name = request.Name });
+                await _applicationDbContext.Categories.AddAsync(new Category { Name = request.Name, SearchCount=0 });
                 await _applicationDbContext.SaveChangesAsync(cancellationToken);
 
                 return new ResponseModel

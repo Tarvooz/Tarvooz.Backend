@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\bin\Release\net8.0\Tarvooz.Application.deps.json
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\bin\Release\net8.0\Tarvooz.Application.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\bin\Release\net8.0\Tarvooz.Application.pdb
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\bin\Release\net8.0\Tarvooz.Domain.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\bin\Release\net8.0\Tarvooz.Domain.pdb
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.sourcelink.json
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz..1D92C27F.Up2Date
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\refint\Tarvooz.Application.dll
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\Tarvooz.Application.pdb
+C:\Users\Hp\Desktop\Important\Tarvooz\Tarvooz.Backend\Tarvooz.Application\obj\Release\net8.0\ref\Tarvooz.Application.dll
