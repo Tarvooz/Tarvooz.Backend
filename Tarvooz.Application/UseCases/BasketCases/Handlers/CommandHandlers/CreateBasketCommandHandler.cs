@@ -5,7 +5,7 @@ using Tarvooz.Application.UseCases.BasketCases.Commands;
 using Tarvooz.Domain.Entities.DTOs;
 using Tarvooz.Domain.Entities.Models;
 
-namespace Tarvooz.Application.UseCases.BasketCases.Handlers
+namespace Tarvooz.Application.UseCases.BasketCases.Handlers.CommandHandlers
 {
     public class CreateBasketCommandHandler : IRequestHandler<CreateBasketCommand, ResponseModel>
     {
@@ -49,6 +49,8 @@ namespace Tarvooz.Application.UseCases.BasketCases.Handlers
                     User = user,
                     Product = product
                 });
+
+                await _applicationDbContext.SaveChangesAsync(cancellationToken);
 
                 return new ResponseModel
                 {

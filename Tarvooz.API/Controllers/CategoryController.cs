@@ -19,7 +19,7 @@ namespace Tarvooz.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Category>> GetALl()
+        public async Task<IEnumerable<Category>> GetAll()
         {
             return await _mediator.Send(new GetAllCategoriesQuery());
         }

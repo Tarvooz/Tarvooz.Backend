@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png))">
       <SourceType>Package</SourceType>
       <SourceId>Tarvooz.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tarvooz.API</BasePath>
-      <RelativePath>productImages/8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg</RelativePath>
+      <RelativePath>productImages/02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,14 +14,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Tarvooz.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tarvooz.API</BasePath>
-      <RelativePath>productImages/99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg</RelativePath>
+      <RelativePath>productImages/1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30,14 +30,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Tarvooz.API</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Tarvooz.API</BasePath>
-      <RelativePath>productImages/ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG</RelativePath>
+      <RelativePath>productImages/2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -46,23 +46,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676))">
-      <SourceType>Package</SourceType>
-      <SourceId>Tarvooz.API</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Tarvooz.API</BasePath>
-      <RelativePath>productImages/logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\productImages\2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

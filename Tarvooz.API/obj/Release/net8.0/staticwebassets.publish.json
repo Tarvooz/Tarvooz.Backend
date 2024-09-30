@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vwAAXdfb/9KsYZ3ALXHv38uNn0LbIp2vIsNvVsdw0UU=",
+  "Hash": "+PO/4QOz5UHZWL6+/aWpFz7tyMfbOn/HS2iAN7PUJs4=",
   "Source": "Tarvooz.API",
   "BasePath": "_content/Tarvooz.API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png",
       "SourceId": "Tarvooz.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
       "BasePath": "_content/Tarvooz.API",
-      "RelativePath": "productImages/8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg",
+      "RelativePath": "productImages/02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\productImages\\8f781a60-942b-4ad8-8386-7e4b79907350-omina.jpg"
+      "OriginalItemSpec": "wwwroot\\productImages\\02a3b69e-3765-4696-9ac3-54c48644edd0-logo-tarvooz.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg",
       "SourceId": "Tarvooz.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
       "BasePath": "_content/Tarvooz.API",
-      "RelativePath": "productImages/99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg",
+      "RelativePath": "productImages/1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,15 +52,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\productImages\\99cca9cc-b141-4793-aab1-bf1a4b495d00-Adventure (1).jpg"
+      "OriginalItemSpec": "wwwroot\\productImages\\1457e7a1-1dc4-412f-ad8e-49d5d6888070-photo_2024-09-29_10-47-36.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG",
+      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg",
       "SourceId": "Tarvooz.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
       "BasePath": "_content/Tarvooz.API",
-      "RelativePath": "productImages/ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG",
+      "RelativePath": "productImages/2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,26 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\productImages\\ab18a466-f3c1-4905-90c1-2db15434ef55-IMG_5628.JPG"
-    },
-    {
-      "Identity": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676",
-      "SourceId": "Tarvooz.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Important\\Tarvooz\\Tarvooz.Backend\\Tarvooz.API\\wwwroot\\",
-      "BasePath": "_content/Tarvooz.API",
-      "RelativePath": "productImages/logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\productImages\\logo-tarvooz.png-8a114b58-ad28-4e32-b5c4-e4c89931e676"
+      "OriginalItemSpec": "wwwroot\\productImages\\2fab8288-8c06-4bea-98dd-4a8c30bee03f-20240109_100650.jpg"
     }
   ]
 }
